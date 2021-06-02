@@ -1,0 +1,2 @@
+# Online-Library-Management-System
+This project automates the library functions to Online in the day-to-day operations of a library. It supports functions such as is download the functions of searching for a particular book, etc. It also maintains data about books about books, teachers, students records that are required during various library operations. The software aims to make the system user friendly and efficient.
